@@ -161,6 +161,9 @@ try {
 					<ShowLabel>true</ShowLabel>
 					<Properties SaveInSnapshot="true" Constant="false" AccessType="public" StaticVariable="false">
 						<Type><![CDATA[int]]></Type>        
+						<InitialValue Class="CodeValue">
+							<Code><![CDATA[15]]></Code>
+						</InitialValue>
 					</Properties>
 				</Variable>
 				<Variable Class="PlainVariable">
